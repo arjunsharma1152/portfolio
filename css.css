@@ -1,7 +1,6 @@
 
 .dark-mode {
   color: black;
-  background-image: none;
   background-color: rgb(255, 255, 255);
   background-size:100%;
   background-attachment: fixed;
@@ -9,7 +8,7 @@
 
 body {
   color: white;
-  background-image: url("a.jpg");
+  background-color:black;
   background-size:100%;
   background-attachment: fixed;
 
@@ -52,6 +51,10 @@ h1{
 .codechef
 {
   content: url('https://api.iconify.design/simple-icons/codechef.svg?color=%230afd01&height=40');
+}
+.github
+{
+  content: url('https://api.iconify.design/akar-icons/github-fill.svg?color=%230afd01&height=40');
 }
 .heart
 {
